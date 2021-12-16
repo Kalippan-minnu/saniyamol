@@ -237,7 +237,7 @@
         },
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
-            "required": false,
+            "required": true,
             "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands  {pp}```"
         },
         "BAN_MESSAGE": {
